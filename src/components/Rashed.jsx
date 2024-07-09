@@ -1,10 +1,9 @@
-
 const Rashed = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <h1>Rashed</h1>
+    </div>
+  );
 };
 
 export default Rashed;
